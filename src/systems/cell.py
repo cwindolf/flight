@@ -1,4 +1,5 @@
 from scipy.signal import convolve2d
+import numpy as np
 
 
 OUTER_TOTAL_FILTER = np.array([
